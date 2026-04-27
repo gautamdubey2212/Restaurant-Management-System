@@ -1,6 +1,4 @@
-# Restaurant-Management-System
 
-# Restaurant-Management-System
 # 🍽️ Restaurant Management System
 
 A simple and efficient **Restaurant Management System** built using **PHP, MySQL, and Bootstrap**.
